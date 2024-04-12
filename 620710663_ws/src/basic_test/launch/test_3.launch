@@ -1,0 +1,4 @@
+<launch>
+    <node name="service_respond" pkg="basic_test" type="server.py" />
+    <node name="callservice" pkg="basic_test" type="client.py" />
+</launch>

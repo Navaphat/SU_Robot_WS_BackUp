@@ -1,0 +1,5 @@
+<launch>
+    <node name="turtlesim" pkg="turtlesim" type="turtlesim_node" />
+    <node name="robot_cleaner" pkg="minitest_1" type="turtleMoving.py" />
+    <node name="commander" pkg="minitest_1" type="command.py" />
+</launch>

@@ -1,0 +1,8 @@
+prefix=/home/navaphat/WorkSpace/catkin_test/devel
+
+Name: ros_camera_node
+Description: Description of ros_camera_node
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

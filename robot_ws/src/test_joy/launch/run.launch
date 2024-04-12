@@ -1,0 +1,8 @@
+<launch>
+    <include file="$(find husky_gazebo)/launch/empty_world.launch" />
+    <!-- <node name="turtlesim" pkg="turtlesim" type="turtlesim_node" /> -->
+    <node name="Joy2Turtle" pkg="test_joy" type="turtleMoving.py" />
+    <node name="joy_input" pkg="test_joy" type="controller.py" />
+    <node name="joy_node" pkg="joy" type="joy_node" />
+    <node name="teleop_twist_joy_node" pkg="teleop_twist_joy" type="teleop_node" />
+</launch>

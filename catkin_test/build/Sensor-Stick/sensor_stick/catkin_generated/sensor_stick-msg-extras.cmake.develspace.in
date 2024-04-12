@@ -1,0 +1,2 @@
+set(sensor_stick_MESSAGE_FILES "/home/navaphat/WorkSpace/catkin_test/src/Sensor-Stick/sensor_stick/msg/DetectedObject.msg;/home/navaphat/WorkSpace/catkin_test/src/Sensor-Stick/sensor_stick/msg/DetectedObjectsArray.msg")
+set(sensor_stick_SERVICE_FILES "/home/navaphat/WorkSpace/catkin_test/src/Sensor-Stick/sensor_stick/srv/GetNormals.srv;/home/navaphat/WorkSpace/catkin_test/src/Sensor-Stick/sensor_stick/srv/GetFloatArrayFeature.srv")

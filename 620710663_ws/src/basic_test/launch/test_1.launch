@@ -1,0 +1,4 @@
+<launch>
+    <node name="gen_number" pkg="basic_test" type="generator.py" />
+    <node name="listener" pkg="basic_test" type="listener.py" />
+</launch>

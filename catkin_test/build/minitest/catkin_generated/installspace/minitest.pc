@@ -1,0 +1,8 @@
+prefix=/home/navaphat/WorkSpace/catkin_test/install
+
+Name: minitest
+Description: Description of minitest
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,4 @@
+<launch>
+    <node name="gen_student" pkg="basic_test" type="gen_student.py" />
+    <node name="observe" pkg="basic_test" type="observe.py" />
+</launch>

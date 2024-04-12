@@ -1,0 +1,8 @@
+prefix=/home/navaphat/WorkSpace/catkin_test/install
+
+Name: homework_ws
+Description: Description of homework_ws
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

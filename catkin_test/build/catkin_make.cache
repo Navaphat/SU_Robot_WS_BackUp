@@ -1,0 +1,2 @@
+Sensor-Stick/sensor_stick:homework_ws:minitest:minitest_1:minitest_2:mobile_robot:package1:ros_camera_node:test_custom_msg:test_gotogoal:test_ros_action:test_ros_service
+-DCATKIN_DEVEL_PREFIX=/home/navaphat/WorkSpace/catkin_test/devel -DCMAKE_INSTALL_PREFIX=/home/navaphat/WorkSpace/catkin_test/install -G Unix Makefiles

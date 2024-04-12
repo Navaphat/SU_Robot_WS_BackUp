@@ -1,0 +1,8 @@
+prefix=/home/navaphat/WorkSpace/620710663_ws/devel
+
+Name: basic_test
+Description: Description of basic_test
+Version: 0.0.0
+Cflags: -I/home/navaphat/WorkSpace/620710663_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: roscpp rospy std_msgs message_runtime

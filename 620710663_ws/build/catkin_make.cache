@@ -1,0 +1,2 @@
+basic_test:turtlesim_controller
+-DCATKIN_DEVEL_PREFIX=/home/navaphat/WorkSpace/620710663_ws/devel -DCMAKE_INSTALL_PREFIX=/home/navaphat/WorkSpace/620710663_ws/install -G Unix Makefiles

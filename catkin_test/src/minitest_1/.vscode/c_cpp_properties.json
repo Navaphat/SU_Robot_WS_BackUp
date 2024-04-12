@@ -1,0 +1,28 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/navaphat/WorkSpace/catkin_test/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/navaphat/WorkSpace/catkin_test/src/homework_ws/include/**",
+        "/home/navaphat/WorkSpace/catkin_test/src/minitest/include/**",
+        "/home/navaphat/WorkSpace/catkin_test/src/minitest_1/include/**",
+        "/home/navaphat/WorkSpace/catkin_test/src/package1/include/**",
+        "/home/navaphat/WorkSpace/catkin_test/src/test_custom_msg/include/**",
+        "/home/navaphat/WorkSpace/catkin_test/src/test_ros_action/include/**",
+        "/home/navaphat/WorkSpace/catkin_test/src/test_ros_service/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
